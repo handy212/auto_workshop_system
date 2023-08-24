@@ -1,4 +1,4 @@
-The **Auto Workshop System** is a comprehensive software solution designed to streamline and enhance the management of an automotive repair workshop. It offers a range of features and functionalities to help workshop owners, managers, and employees efficiently handle various aspects of their business operations. The system aims to improve customer service, optimize workflow, and increase overall productivity within the auto repair industry.
+This **Auto Workshop System** is a comprehensive software solution designed to streamline and enhance the management of an automotive repair workshop. It offers a range of features and functionalities to help workshop owners, managers, and employees efficiently handle various aspects of their business operations. The system aims to improve customer service, optimize workflow, and increase overall productivity within the auto repair industry.
 
 Key Features:
 
