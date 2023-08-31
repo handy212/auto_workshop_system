@@ -26,6 +26,7 @@ Route::middleware(['auth', 'role:admin'])->group(function () {
     Route::get('/admin/logout', [AdminController::class, 'AdminLogout'])->name('admin.logout');
     Route::get('/admin/profile', [AdminController::class, 'AdminProfile'])->name('admin.profile');
     Route::post('/admin/profile/save', [AdminController::class, 'AdminProfileSave'])->name('admin.profile.save');
+    Route::post('/admin/change/password', [AdminController::class, 'AdminChangePassword'])->name('admin.change.password');
 
 });
 // Customer Group Muddleware
